@@ -1,6 +1,6 @@
 **Hi there!**
 
-I'm **Xuyang Zhou**, a Computer Science major undergraduate @ UCLA and an independent developer. I'm interested in AI algorithms, web development, and writing code for anything!
+I'm **Xuyang Zhou**, a Computer Science major undergraduate @ UCLA and an incoming SDE interm @ TikTok. I'm interested in AI algorithms, web development, and writing code for anything!
 
 You can reach me via nickzhouxy@g.ucla.edu or nick.zhouxy@gmail.com. 
 
