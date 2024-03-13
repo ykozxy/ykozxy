@@ -1,6 +1,6 @@
-**Hi there!**
+**Hi!**
 
-I'm **Xuyang Zhou**, a Computer Science major undergraduate @ UCLA and a backend SWE intern @ TikTok. I'm interested in AI algorithms, web development, and writing code for anything!
+I'm **Xuyang Zhou**, a Computer Science major undergraduate @ UCLA and an incoming backend SWE @ TikTok. I'm interested in AI algorithms, web development, and writing code for anything!
 
 You can reach me via nickzhouxy@g.ucla.edu or nick.zhouxy@gmail.com. 
 
