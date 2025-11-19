@@ -5,7 +5,7 @@
 
 ### **Hi👋 My name is Xuyang Zhou**
 
-- I'm a **Software Engineer** in the User & Relation team @ **TikTok** and formerly CS major undergraduate @ **UCLA**. 
+- I'm a **Software Engineer** in the Social Graph team @ **TikTok** and formerly CS major undergraduate @ **UCLA**. 
 
 - I'm particularly interested in **scalable, distributed systems**. 
 
