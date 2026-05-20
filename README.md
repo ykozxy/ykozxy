@@ -3,13 +3,11 @@
 -->
 
 
-### **Hi👋 My name is Xuyang Zhou**
+Hi👋 My name is Xuyang Zhou. 
 
-- I'm a **Software Engineer** in the Social Graph team @ **TikTok** and formerly CS major undergraduate @ **UCLA**. 
+I'm an engineer building infrastructure for large-scale AI and LLM systems, and passionate about solving industry frontier problems at scale.
 
-- I'm particularly interested in **scalable, distributed systems**. 
-
-- You can reach me via **nickzhouxy@g.ucla.edu** or **nick.zhouxy@gmail.com**. 
+You can reach me via **nick.zhouxy@gmail.com**. 
 
 <!--
 ![ykozxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykozxy&count_private=true&show_icons=true&theme=react&hide=contribs&include_all_commits=true)
